@@ -3,6 +3,8 @@ dist/*
 shovel.egg-info/*
 *.pyc
 *shovel.py
-shovel/*
 */shovel/*
-
+.coverage
+*/.shovel_tasks
+virtualenv/
+*.egg
